@@ -144,7 +144,7 @@ This helps understand:
 
 ---
 
-# 📊 Closing Price Analysis
+# Closing Price Analysis
 
 The project extracts the closing price:
 
@@ -294,7 +294,7 @@ The predicted values are transformed back from the normalized 0–1 scale into a
 
 ---
 
-# 📏 Model Evaluation
+# Model Evaluation
 
 The project uses **Root Mean Squared Error (RMSE)** to evaluate prediction error.
 
@@ -389,7 +389,7 @@ The Jupyter notebook contains the complete implementation.
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 Install the required Python packages:
 
