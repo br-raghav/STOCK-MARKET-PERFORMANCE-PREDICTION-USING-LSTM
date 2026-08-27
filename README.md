@@ -636,21 +636,6 @@ This provides exposure to different layers of modern data and AI engineering.
 
 **Raghav B R**
 
-B.E. — Electronics & Communication Engineering
-
-### Certifications
-
-* **IIMBx** — FinTech
-* **Imarticus Learning** — Data Analyst using Generative AI
-
-### Experience
-
-* **MDM Intern — Actylis**
-
-### GitHub
-
-**GitHub:** `br-raghav`
-
 ---
 
 # Disclaimer
