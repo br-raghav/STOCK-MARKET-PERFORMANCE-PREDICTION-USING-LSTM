@@ -1,7 +1,5 @@
 # STOCK-MARKET-PERFORMANCE-PREDICTION-USING-LSTM
 
-# Stock Market Performance Prediction Using LSTM
-
 ## Overview
 
 This project explores **stock market time-series forecasting using a Long Short-Term Memory (LSTM) neural network**.
